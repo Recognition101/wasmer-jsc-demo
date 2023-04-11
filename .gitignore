@@ -1,0 +1,12 @@
+# Language specific files
+.npm
+npm-debug.log
+node_modules
+
+# Editor specific project files
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+
